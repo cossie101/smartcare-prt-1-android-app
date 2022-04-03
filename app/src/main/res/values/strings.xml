@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartCare</string>
+    <string name="login">Login</string>
+    <string name="make_enquiry">Make Enquiry</string>
+    <string name="view_enquiry">Enquiries</string>
+    <string name="make_payment">Make Payment</string>
+    <string name="view_payments">Payments</string>
+    <string name="appointment">Bookings</string>
+    <string name="appointments"> Appointments</string>
+</resources>
